@@ -6,7 +6,7 @@ Folgende Verbesserungsvorschläge wurden genannt:
 
 1. Zur eindeutigen Identifizierung sollte zusätzlich der Nachname abgefragt werden.
 
-2. Einige Begriffe könnten für wenig computer-affine Nutzer unverständlich sein und sollten daher konkreter formuliert werden:
+2. Einige Begriffe könnten für wenig Computer-affine Nutzer unverständlich sein und sollten daher konkreter formuliert werden:
 
    - Die Auswahl „Desktop“ könnte missverständlich sein, da manche Nutzer denken könnten, dass damit Probleme „auf dem Desktop“ gemeint sind.  
      Deshalb wurde vorgeschlagen, den Begriff in „Desktop-PC“ umzubenennen.
