@@ -1,4 +1,6 @@
-# Ticket-System_EasyFeedback
+# Ticket-System für IT-Support anfragen für die Mitarbeitenden für Zug um Zug e.V. & seinen Tochtergesellschaften.
+
+Hierzu wurde das Online-Umfragen Tool EasyFeedback genutzt.
 Nach der Erstellung wurde die Umfrage an drei Tester versendet.  
 Diese sollten die Umfrage ausprobieren und anschließend Rückmeldung zur Verständlichkeit und Benutzerfreundlichkeit geben.
 
@@ -13,6 +15,8 @@ Folgende Verbesserungsvorschläge wurden genannt:
 
    - Die Frage nach durchgeführten Updates könnte für viele Nutzer schwierig zu beantworten sein.  
      Daher wurde vorgeschlagen:
+  
+     
      
      - eine zusätzliche Auswahlmöglichkeit wie „Unbekannt“ oder „Keine Ahnung“ einzubauen
      - sowie eine kurze Hilfestellung oder Erklärung anzuzeigen
